@@ -170,3 +170,9 @@ The notebook is self-contained: each section includes markdown explanations of t
 - **Rarefaction depth**: a minimum depth threshold of 4,500 reads was used; samples below this were excluded.
 - **ANCOM implementation**: the notebook includes a from-scratch ANCOM implementation rather than using an established package; results are consistent with Mann–Whitney findings but should be cross-validated for publication.
 - **Observational design**: environmental variables (temperature, humidity) are confounded with city and collection date, limiting causal inference.
+
+--- 
+
+## Acknowledgement
+
+This project was conducted under the supervision of Dr. Dave Angelini [Professor of Biology and The Charles C. and Pamela W. Leighton Research Fellow in Biology; Associate Chair of Biology at Colby College, ME, USA]. His guidance shaped the experimental design, analytical approach, and biological interpretation throughout this work.
