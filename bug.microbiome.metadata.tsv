@@ -1,0 +1,411 @@
+sample-id	IMR quality control	voucher image	species	stage	morph	sex	year	month	city	site_name	latitude	longitude	host_plant	temp_degF	relative_humidity	windspeed_mph	D_ng_ul	A260_280	Adjusted for sequencing conc.
+																			
+#q2:types	categorical	categorical	categorical	categorical	categorical	categorical	numeric	categorical	categorical	categorical	numeric	numeric	categorical	numeric	numeric	numeric	numeric	numeric	
+																			
+DRA190110-001	failed	FALSE	Jhae	adult	SW	f	2019	January	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	68.1	20.8	2.6	113.09	2.18	Yes
+																			
+DRA190110-002	passed	FALSE	Jhae	adult	SW	f	2019	January	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	68.1	20.8	2.6	220.64	2.17	diluted to 173.0
+																			
+DRA190110-003	failed	FALSE	Jhae	adult	SW	f	2019	January	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	68.1	20.8	2.6	385.36	2.12	diluted to 165.8
+																			
+DRA190110-004	passed	FALSE	Jhae	adult	SW	f	2019	January	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	68.1	20.8	2.6	155.8	2.19	Yes
+																			
+DRA190110-005	failed	FALSE	Jhae	adult	SW	f	2019	January	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	68.1	20.8	2.6	140.16	2.17	Yes
+																			
+DRA190110-006	passed	TRUE	Jhae	adult	SW	f	2019	January	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	68.1	20.8	2.6	28.2	2.28	Yes
+																			
+DRA190110-007	passed	TRUE	Jhae	adult	LW	f	2019	January	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	68.1	20.8	2.6	77.12	2.18	Yes
+																			
+DRA190110-008	passed	TRUE	Jhae	adult	LW	f	2019	January	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	68.1	20.8	2.6	1128.55	2.18	diluted to 182.5
+																			
+DRA190110-009	passed	TRUE	Jhae	adult	LW	f	2019	January	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	68.1	20.8	2.6	323.63	2.17	diluted to 179.1
+																			
+DRA190110-010	failed	TRUE	Jhae	adult	LW	f	2019	January	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	68.1	20.8	2.6	332.04	2.18	diluted to 127.5
+																			
+DRA190110-011	passed	FALSE	Jhae	adult	LW	m	2019	January	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	68.1	20.8	2.6	166.12	2.21	Yes
+																			
+DRA190110-012	passed	FALSE	Jhae	adult	LW	m	2019	January	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	68.1	20.8	2.6	146.52	2.17	Yes
+																			
+DRA190110-013	passed	FALSE	Jhae	adult	LW	m	2019	January	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	68.1	20.8	2.6	92.83	2.28	Yes
+																			
+DRA190112-001	passed	TRUE	Jhae	instar5		m	2019	January	Key Largo FL	Key Largo Tower	25.123139	-80.415361	BV				11.38	2.05	Yes
+																			
+DRA190118-002	passed	FALSE	Jhae	adult	LW	f	2019	January	Delray Beach FL	Delray Beach	26.474905	-80.09115	GRT	65	70.3	0	201.78	2.14	diluted to 155.2
+																			
+DRA190118-003	passed	FALSE	Jhae	adult	LW	f	2019	January	Delray Beach FL	Delray Beach	26.474905	-80.09115	GRT	65	70.3	0	146.61	1.9	Yes
+																			
+DRA190118-004	passed	FALSE	Jhae	adult	LW	m	2019	January	Delray Beach FL	Delray Beach	26.474905	-80.09115	GRT	65	70.3	0	36.86	2.22	Yes
+																			
+DRA190118-005	passed	FALSE	Jhae	adult	LW	m	2019	January	Delray Beach FL	Delray Beach	26.474905	-80.09115	GRT	65	70.3	0	21.09	2.12	Yes
+																			
+DRA190118-006	passed	FALSE	Jhae	adult	LW	m	2019	January	Delray Beach FL	Delray Beach	26.474905	-80.09115	GRT	65	70.3	0	272.58	2.15	diluted to 186
+																			
+DRA190118-009	passed	TRUE	Jhae	adult	SW	m	2019	January	Delray Beach FL	Delray Beach	26.474905	-80.09115	GRT	65	70.3	0	47.89	2.25	Yes
+																			
+DRA190118-010	passed	FALSE	Jhae	adult	LW		2019	January	Delray Beach FL	Delray Beach	26.474905	-80.09115	GRT	65	70.3	0	175.8	2.17	Yes
+																			
+DRA190118-011	passed	FALSE	Jhae	adult	LW		2019	January	Delray Beach FL	Delray Beach	26.474905	-80.09115	GRT	65	70.3	0	263.11	2.2	diluted to 192.9
+																			
+DRA190118-012	passed	FALSE	Jhae	adult	LW		2019	January	Delray Beach FL	Delray Beach	26.474905	-80.09115	GRT	65	70.3	0	213.57	1.91	diluted to 178.3
+																			
+DRA190118-016	failed	FALSE	Jhae																
+																			
+DRA190118-019	failed	FALSE	Jhae																
+																			
+DRA190729-001	passed	TRUE	Jhae	instar4			2019	July	Lakeland FL	Fifth Third Bank	28.092696	-81.95365	GRT	95.4	46.4	0			
+																			
+DRA190729-002	passed	TRUE	Jhae	instar4			2019	July	Lakeland FL	Fifth Third Bank	28.092696	-81.95365	GRT	95.4	46.4	0			
+																			
+DRA190729-003	passed	FALSE	Jhae	adult	LW	f	2019	July	Lakeland FL	Fifth Third Bank	28.092696	-81.95365	GRT	95.4	46.4	0			
+																			
+DRA190729-004	passed	FALSE	Jhae	adult	LW	f	2019	July	Lakeland FL	Fifth Third Bank	28.092696	-81.95365	GRT	95.4	46.4	0			
+																			
+DRA190729-010	passed	FALSE	Jhae	adult	LW	m	2019	July	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	92.4	55.8	0	148.54	2.12	yes
+																			
+DRA190729-011	passed	FALSE	Jhae	adult	LW	m	2019	July	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	92.4	55.8	0	216.61	2.16	diluted to 160.7
+																			
+DRA190729-013	passed	FALSE	Jhae	adult	SW	f	2019	July	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	92.4	55.8	0	202.75	2.2	diluted to 138.2
+																			
+DRA190724-014	passed	FALSE	Jhae	adult	SW	f	2019	July	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	92.4	55.8	0	48.76	2.19	Yes
+																			
+DRA190729-015	passed	FALSE	Jhae	adult	SW	f	2019	July	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	92.4	55.8	0	230.53	2.16	diluted to 124.6
+																			
+DRA190729-016	passed	FALSE	Jhae	adult	LW	m	2019	July	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	92.4	55.8	0	129.12	2.16	Yes
+																			
+DRA190729-018	passed	FALSE	Jhae	adult	LW	m	2019	July	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	92.4	55.8	0	58.42	2.08	Yes
+																			
+DRA190729-019	passed	FALSE	Jhae	adult	LW	f	2019	July	Bartow FL	Bartow	27.954928	-81.770756	GRT	88.6	69	1	193.15	2.13	diluted to 122.5
+																			
+DRA190729-020	passed	FALSE	Jhae	juvenile			2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0			
+																			
+DRA190729-021	passed	FALSE	Jhae	juvenile			2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0			
+																			
+DRA190729-024	passed	FALSE	Jhae	adult	SW	f	2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0			
+																			
+DRA190729-025	passed	FALSE	Jhae	adult	SW	m	2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0			
+																			
+DRA190729-026	passed	FALSE	Jhae	adult	SW	m	2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0			
+																			
+DRA190729-032	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0			
+																			
+DRA190729-033	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0			
+																			
+DRA190729-034	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0			
+																			
+DRA190729-035	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0			
+																			
+DRA190729-036	failed	FALSE	Jhae	adult	LW	f	2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0			
+																			
+DRA190729-037	passed	FALSE	Jhae	adult	LW	m	2019	July	Lake Wales FL	Sunoco	27.959416	-81.594083	GRT	94	46.7	1	29.07	1.33	yes
+																			
+DRA190804-017	passed	FALSE	Jhae				2019	August											
+																			
+DRAnFJ190726-001	passed	FALSE	Jhae				2019	July											
+																			
+DRAnFJ190726-058	passed	FALSE	Jhae	adult	LW	m	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0			
+																			
+DRAnFJ190726-059	passed	FALSE	Jhae	adult	LW	m	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0			
+																			
+DRAnFJ190726-062	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0			
+																			
+DRAnFJ190729-022	passed	FALSE	Jhae	juvenile			2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0	43.39	1.7	yes
+																			
+DRAnFJ190729-023	passed	FALSE	Jhae	adult	SW	f	2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0	111.09	2.18	yes
+																			
+DRAnFJ190729-027	passed	FALSE	Jhae	adult	LW	m	2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0	82.82	2.17	yes
+																			
+DRAnFJ190729-028	passed	FALSE	Jhae	adult	LW	m	2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0	130.49	2.17	yes
+																			
+DRAnFJ190729-029	passed	FALSE	Jhae	adult	LW	m	2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0	41.91	2.17	yes
+																			
+DRAnFJ190729-031	passed	FALSE	Jhae	adult	LW	m	2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0	30.54	2.12	yes
+																			
+DRAnFJ190729-032	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	95	50	0	229.08	2.13	diluted to 141.8
+																			
+DRAnFJ190729-041	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	102.82	2.19	yes
+																			
+DRAnFJ190729-042	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	149.5	2.09	yes
+																			
+DRAnFJ190729-043	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	185.93	2.2	yes
+																			
+DRAnFJ190729-044	failed	FALSE	Jhae	adult	SW	m	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	143.67	2.22	yes
+																			
+DRAnFJ190729-045	passed	FALSE	Jhae	adult	SW	m	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	35.7	2.13	yes
+																			
+DRAnFJ190729-046	passed	FALSE	Jhae	adult	SW	m	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	103.28	2.11	yes
+																			
+DRAnFJ190729-047	passed	FALSE	Jhae	adult	SW	m	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	150.36	2.15	yes
+																			
+DRAnFJ190729-048	passed	FALSE	Jhae	adult	SW	m	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	116.52	2.19	yes
+																			
+DRAnFJ190729-049	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	194.23	2.21	diluted to 147.3
+																			
+DRAnFJ190729-050	failed	FALSE	Jhae	adult	LW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	227.76	2.07	diluted to 113.2
+																			
+DRAnFJ190729-051	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	451.07	2.1	diluted to 147.9
+																			
+DRAnFJ190729-052	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	345.5	2.14	diluted to 132.8
+																			
+DRAnFJ190729-053	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	193.66	2.14	diluted to 136.1
+																			
+DRAnFJ190729-054	passed	FALSE	Jhae	adult	LW	m	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	277.46	2	diluted to 110.3
+																			
+DRAnFJ190729-055	passed	FALSE	Jhae	adult	LW	m	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	223.76	2.13	diluted to 104.3
+																			
+DRAnFJ190729-056	passed	FALSE	Jhae	adult	LW	m	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	29.36	2.28	yes
+																			
+DRAnFJ190729-057	failed	FALSE	Jhae	adult	LW	m	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	277.49	2.17	diluted to 134.9
+																			
+DRAnFJ190729-062	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	186.32	2.2	yes
+																			
+DRAnFJ190729-063	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	443.85	2.14	diluted to 192.3
+																			
+DRAnFJ190729-064	passed	FALSE	Jhae	adult	SW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	331.05	2.09	diluted to 138.1
+																			
+DRAnFJ190729-065	passed	FALSE	Jhae	adult	SW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	170.72	2.19	yes
+																			
+DRAnFJ190729-066	passed	FALSE	Jhae	adult	SW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	180.53	2.22	yes
+																			
+DRAnFJ190729-067	passed	FALSE	Jhae	adult	SW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	170.13	2.24	yes
+																			
+DRAnFJ190729-068	passed	FALSE	Jhae	adult	SW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	122.3	2.23	yes
+																			
+DRAnFJ190729-069	failed	FALSE	Jhae	adult	SW	f	2019	July	Lake Wales FL	Fat Boys BBQ	27.843756	-81.585279	GRT	91.3	62	0	188.35	2.16	yes
+																			
+FJ190108-001	passed	FALSE	Jhae	adult	SW	m	2019	January	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	83.1	44.1	0	80.16	2.32	Yes
+																			
+FJ190108-002	passed	FALSE	Jhae	adult	LW	m	2019	January	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	83.1	44.1	0	20.79	2.18	Yes
+																			
+FJ190108-003	passed	FALSE	Jhae	adult	LW	m	2019	January	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	83.1	44.1	0	23.71	2.25	Yes
+																			
+FJ190108-004	passed	TRUE	Jhae	adult	LW	m	2019	January	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	83.1	44.1	0	156.72	2.2	Yes
+																			
+FJ190108-006	passed	TRUE	Jhae	adult	LW	f	2019	January	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	83.1	44.1	0	65.55	2.19	Yes
+																			
+FJ190108-007	passed	TRUE	Jhae	adult	LW	f	2019	January	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	83.1	44.1	0	279.65	2.18	diluted to 168.2
+																			
+FJ190108-008	failed	TRUE	Jhae	adult	LW	f	2019	January	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	83.1	44.1	0	903.4	2.24	diluted to 193.4
+																			
+FJ190108-009	failed	TRUE	Jhae	adult	SW	f	2019	January	Lake Bentley FL	Grace City Church	28.021053	-81.932194	GRT				122.66	2.22	Yes
+																			
+FJ190108-010	passed	TRUE	Jhae	adult	SW	f	2019	January	Lake Bentley FL	Grace City Church	28.021053	-81.932194	GRT				285.32	2.21	diluted to 137.0
+																			
+FJ190108-011	failed	TRUE	Jhae	adult	SW	f	2019	January	Lake Bentley FL	Grace City Church	28.021053	-81.932194	GRT				302.85	2.18	diluted to 186.4
+																			
+FJ190108-012	passed	TRUE	Jhae	adult	SW	m	2019	January	Lake Bentley FL	Grace City Church	28.021053	-81.932194	GRT				197.36	2.19	diluted to 119.3
+																			
+FJ190108-013	passed	TRUE	Jhae	adult	SW	m	2019	January	Lake Bentley FL	Grace City Church	28.021053	-81.932194	GRT				188.54	2.15	Yes
+																			
+FJ190108-014	failed	TRUE	Jhae	adult	SW	m	2019	January	Lake Bentley FL	Grace City Church	28.021053	-81.932194	GRT				40.83	2.24	Yes
+																			
+FJ190108-015	passed	TRUE	Jhae	adult	LW	f	2019	January	Bartow FL	Bartow	27.954928	-81.770756	GRT	85	42.8	0.9	525.56	2.16	diluted to 164.1
+																			
+FJ190108-016	passed	TRUE	Jhae	adult	LW	f	2019	January	Bartow FL	Bartow	27.954928	-81.770756	GRT	85	42.8	0.9	10.59	1.8	Yes
+																			
+FJ190108-017	failed	TRUE	Jhae	adult	LW	f	2019	January	Bartow FL	Bartow	27.954928	-81.770756	GRT	85	42.8	0.9	75.04	2.22	Yes
+																			
+FJ190108-017	passed	TRUE	Jhae	adult	LW	f	2019	January	Bartow FL	Bartow	27.954928	-81.770756	GRT	85	42.8	0.9	75.04	2.22	
+																			
+FJ190108-018	passed	TRUE	Jhae	adult	LW	m	2019	January	Bartow FL	Bartow	27.954928	-81.770756	GRT	85	42.8	0.9	225.87	2.21	diluted to 127.9
+																			
+FJ190108-019	passed	TRUE	Jhae	adult	LW	m	2019	January	Bartow FL	Bartow	27.954928	-81.770756	GRT	85	42.8	0.9	304.82	2.17	diluted to 137.1
+																			
+FJ190108-020	passed	TRUE	Jhae	adult	LW	m	2019	January	Bartow FL	Bartow	27.954928	-81.770756	GRT	85	42.8	0.9	63.12	2.15	Yes
+																			
+FJ190108-021	passed	TRUE	Jhae	adult	LW	m	2019	January	Bartow FL	Bartow	27.954928	-81.770756	GRT	85	42.8	0.9	56.66	2.26	Yes
+																			
+FJ190108-022	passed	TRUE	Jhae	adult	LW	m	2019	January	Bartow FL	Bartow	27.954928	-81.770756	GRT	85	42.8	0.9	106.76	2.26	Yes
+																			
+FJ190108-023	failed	TRUE	Jhae	adult	LW	f	2019	January	Winter Haven FL	Winter Haven	28.043252	-81.761536	GRT	86.2	39.8	0.9	97.34	2.18	Yes
+																			
+FJ190108-024	failed	TRUE	Jhae	adult	LW	m	2019	January	Winter Haven FL	Winter Haven	28.043252	-81.761536	GRT	86.2	39.8	0.9	121.84	2.16	Yes
+																			
+FJ190108-025	passed	TRUE	Jhae	adult	LW	f	2019	January	Winter Haven FL	Winter Haven	28.043252	-81.761536	GRT	86.2	39.8	0.9	477.86	2.14	Diluted to 99.2
+																			
+FJ190108-026	failed	TRUE	Jhae	adult	LW	f	2019	January	Winter Haven FL	Winter Haven	28.043252	-81.761536	GRT	86.2	39.8	0.9	333.03	2.16	diluted to 91.9
+																			
+FJ190108-027	failed	TRUE	Jhae	adult	LW	f	2019	January	Winter Haven FL	Winter Haven	28.043252	-81.761536	GRT	86.2	39.8	0.9	39.62	2.13	Yes
+																			
+FJ190108-028	failed	TRUE	Jhae	adult	LW	m	2019	January	Winter Haven FL	Winter Haven	28.043252	-81.761536	GRT	86.2	39.8	0.9	413.82	2.19	diluted to 146.3
+																			
+FJ190108-029	passed	TRUE	Jhae	adult	LW	m	2019	January	Winter Haven FL	Winter Haven	28.043252	-81.761536	GRT	86.2	39.8	0.9	77.02	2.25	Yes
+																			
+FJ190108-030	passed	TRUE	Jhae	adult	LW	m	2019	January	Winter Haven FL	Winter Haven	28.043252	-81.761536	GRT	86.2	39.8	0.9	52.4	2.13	Yes
+																			
+FJ190108-031	passed	TRUE	Jhae	adult	LW	f	2019	January	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	80.3	46.8	0	83.15	2.19	Yes
+																			
+FJ190108-032	failed	TRUE	Jhae	adult	SW	f	2019	January	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	80.3	46.8	0	880.85	2.16	diluted to 109.0
+																			
+FJ190108-033	passed	TRUE	Jhae	adult	LW	f	2019	January	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	80.3	46.8	0	187.12	3.07	Yes
+																			
+FJ190108-033a	passed	FALSE	Jhae	adult	LW	f	2019	January	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	80.3	46.8	0	99.96	2.2	Yes
+																			
+FJ190108-035	passed	TRUE	Jhae	adult	SW	f	2019	January	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	80.3	46.8	0	17.38	2.22	Yes
+																			
+FJ190108-036	passed	TRUE	Jhae	adult	SW	f	2019	January	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	80.3	46.8	0	178.57	2.19	Yes
+																			
+FJ190108-037	failed	FALSE	Jhae	adult	LW	m	2019	January	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	80.3	46.8	0	49.9	2.17	Yes
+																			
+FJ190108-038	passed	TRUE	Jhae	adult	LW	m	2019	January	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	80.3	46.8	0	57.43	2.25	Yes
+																			
+FJ190108-038a	failed	TRUE	Jhae	adult	LW	m	2019	January	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	80.3	46.8	0	117.25	2.23	Yes
+																			
+FJ190108-040	passed	TRUE	Jhae	adult	SW	m	2019	January	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	80.3	46.8	0	223.09	2.2	diluted to 125.8
+																			
+FJ190108-041	passed	TRUE	Jhae	adult	SW	m	2019	January	Lake Alfred FL	First Presbyterian	28.091785	-81.723145	GRT	80.3	46.8	0	45.11	2.24	yes
+																			
+FJ190108-043	passed	TRUE	Jhae	adult	LW	f	2019	January	Lake Wales FL	Sunoco	27.959416	-81.594083	GRT	76.9	51	0	218.7	2.18	diluted to 117.5
+																			
+FJ190108-044	failed	TRUE	Jhae	adult	LW	f	2019	January	Lake Wales FL	Sunoco	27.959416	-81.594083	GRT	76.9	51	0	222.24	2.22	diluted to 121.8
+																			
+FJ190108-045	passed	TRUE	Jhae	adult	LW	f	2019	January	Lake Wales FL	Sunoco	27.959416	-81.594083	GRT	76.9	51	0	80.34	2.17	yes
+																			
+FJ190108-046	failed	TRUE	Jhae	adult	LW	m	2019	January	Lake Wales FL	Sunoco	27.959416	-81.594083	GRT	76.9	51	0	47.5	2.37	yes
+																			
+FJ190108-047	failed	TRUE	Jhae	adult	LW	m	2019	January	Lake Wales FL	Sunoco	27.959416	-81.594083	GRT	76.9	51	0	63.96	2.14	yes
+																			
+FJ190108-048	passed	FALSE	Jhae	juvenile			2019	January	Lake Wales FL	Sunoco	27.959416	-81.594083	GRT	76.9	51	0	139.09	2.16	yes
+																			
+FJ190108-049	failed	FALSE	Jhae	juvenile			2019	January	Lake Wales FL	Sunoco	27.959416	-81.594083	GRT	76.9	51	0	98.13	2.23	yes
+																			
+FJ190108-050	passed	FALSE	Jhae	juvenile			2019	January	Lake Wales FL	Sunoco	27.959416	-81.594083	GRT	76.9	51	0	26.94	2.24	yes
+																			
+FJ190109-001	passed	TRUE	Jhae	adult	SW	m	2019	January	Lehigh Acres FL	Lehigh Acres	26.617348	-81.689738	GRT	74.4	60.5	0	18.25	1.98	yes
+																			
+FJ190109-002	failed	TRUE	Jhae	adult	LW	m	2019	January	Lehigh Acres FL	Lehigh Acres	26.617348	-81.689738	GRT	74.4	60.5	0	17.72	1.94	yes
+																			
+FJ190109-003	passed	TRUE	Jhae	adult	LW	m	2019	January	Lehigh Acres FL	Lehigh Acres	26.617348	-81.689738	GRT	74.4	60.5	0	195.64	2.19	diluted to 174.6
+																			
+FJ190109-004	failed	TRUE	Jhae	adult	LW	m	2019	January	Lehigh Acres FL	Lehigh Acres	26.617348	-81.689738	GRT	74.4	60.5	0	15.85	2.17	Yes
+																			
+FJ190109-005	passed	TRUE	Jhae	adult	SW	f	2019	January	Lehigh Acres FL	Lehigh Acres	26.617348	-81.689738	GRT	74.4	60.5	0	21.96	2.4	Yes
+																			
+FJ190109-006	passed	TRUE	Jhae	adult	SW	f	2019	January	Lehigh Acres FL	Lehigh Acres	26.617348	-81.689738	GRT	74.4	60.5	0	1024.31	2.22	diluted to 175.9
+																			
+FJ190109-007	passed	FALSE	Jhae	adult	SW	f	2019	January	Lehigh Acres FL	Lehigh Acres	26.617348	-81.689738	GRT	74.4	60.5	0	486.65	2.16	diluted to 167.3
+																			
+FJ190109-008	failed	FALSE	Jhae	adult	LW	f	2019	January	Lehigh Acres FL	Lehigh Acres	26.617348	-81.689738	GRT	74.4	60.5	0	93.5	2.2	yes
+																			
+FJ190109-009	passed	TRUE	Jhae	adult	LW	f	2019	January	Lehigh Acres FL	Lehigh Acres	26.617348	-81.689738	GRT	74.4	60.5	0	303.11	2.21	diluted to 161.9
+																			
+FJ190109-010	passed	TRUE	Jhae	adult	LW	f	2019	January	Lehigh Acres FL	Lehigh Acres	26.617348	-81.689738	GRT	74.4	60.5	0	127.96	2.19	yes
+																			
+FJ190109-017a	passed	TRUE	Jhae	adult		m	2019	January	Kendall Lakes FL	Kendall Lakes	25.713854	-80.420306	GRT	76	47.2	0	34.9	2.18	yes
+																			
+FJ190109-012	passed	TRUE	Jhae	adult	LW	m	2019	January	Kendall Lakes FL	Kendall Lakes	25.713854	-80.420306	GRT	76	47.2	0	117.31	2.29	yes
+																			
+FJ190109-013	passed	TRUE	Jhae	adult	LW	m	2019	January	Kendall Lakes FL	Kendall Lakes	25.713854	-80.420306	GRT	76	47.2	0	59.36	2.26	yes
+																			
+FJ190109-014	passed	TRUE	Jhae	adult	LW	f	2019	January	Kendall Lakes FL	Kendall Lakes	25.713854	-80.420306	GRT	76	47.2	0	782.21	2.18	diluted to 185.5
+																			
+FJ190109-016	passed	TRUE	Jhae	adult	LW	f	2019	January	Kendall Lakes FL	Kendall Lakes	25.713854	-80.420306	GRT	76	47.2	0	1279.27	2.18	diluted to 185.4
+																			
+FJ190109-017	passed	TRUE	Jhae	adult		m	2019	January	Kendall Lakes FL	Kendall Lakes	25.713854	-80.420306	GRT	76	47.2	0	78.3	2.14	yes
+																			
+FJ190109-018	passed	TRUE	Jhae	adult	SW	m	2019	January	Kendall Lakes FL	Kendall Lakes	25.713854	-80.420306	GRT	76	47.2	0	48.44	1.95	yes
+																			
+FJ190109-019	passed	TRUE	Jhae	adult	SW	m	2019	January	Kendall Lakes FL	Kendall Lakes	25.713854	-80.420306	GRT	76	47.2	0	127.19	2.18	yes
+																			
+FJ190109-021	passed	TRUE	Jhae	instar5		m	2019	January	Miami-Dade County FL	Silver Palm Dr	25.550613	-80.468954	GRT	74.5	57.8	0	49.88	2.12	yes
+																			
+FJ190109-022	failed	TRUE	Jhae	instar4			2019	January	Miami-Dade County FL	Silver Palm Dr	25.550613	-80.468954	GRT	74.5	57.8	0	11.4	2.02	yes
+																			
+FJ190109-023	passed	TRUE	Jhae	instar4			2019	January	Miami-Dade County FL	Silver Palm Dr	25.550613	-80.468954	GRT	74.5	57.8	0	115.92	2.1	yes
+																			
+FJ190729-005	passed	TRUE	Jhae	adult	SW	m	2019	July	Lakeland FL	Lakeland Hills Blvd	28.092696	-81.95365	GRT	95.4	46.4	0	199.11	2.23	diluted to 132.2
+																			
+FJ190729-006	passed	FALSE	Jhae	adult	SW	f	2019	July	Lakeland FL	Lakeland Hills Blvd	28.092696	-81.95365	GRT	95.4	46.4	0	273.59	2.15	diluted to 153.2
+																			
+FJ190729-007	passed	TRUE	Jhae	adult	SW	m	2019	July	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	92.4	55.8	0	94.33	0.828	yes
+																			
+FJ190729-008	passed	TRUE	Jhae	adult	LW	m	2019	July	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	92.4	55.8	0	249.61	2.233	diluted to 119.0
+																			
+FJ190729-009	passed	FALSE	Jhae	adult	LW	f	2019	July	Lakeland FL	St. Joseph Academy	28.03337	-81.955172	GRT	92.4	55.8	0	163.52	2.22	yes
+																			
+FJ190729-038	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Wales FL	Sunoco	27.959416	-81.594083	GRT	94	46.7	1	65.65	2.21	yes
+																			
+FJ190729-039	passed	FALSE	Jhae	adult	LW	f	2019	July	Lake Wales FL	Sunoco	27.959416	-81.594083	GRT	94	46.7	1	169.57	2.19	yes
+																			
+FJnDRA190730-001	passed	TRUE	Jhae	adult	LW	m	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-002	passed	TRUE	Jhae	adult	LW	m	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-003	passed	TRUE	Jhae	adult	LW	m	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-004	passed	TRUE	Jhae	adult	LW	m	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-005	passed	TRUE	Jhae	adult	LW	m	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-006	passed	TRUE	Jhae	adult	LW	m	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-007	passed	TRUE	Jhae	adult	LW	m	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-008	passed	TRUE	Jhae	adult	SW	m	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-009	failed	TRUE	Jhae	adult	SW	m	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-011	passed	TRUE	Jhae	adult	SW	m	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-012	passed	FALSE	Jhae	juvenile			2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-013	passed	TRUE	Jhae	adult	SW	f	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-014	passed	TRUE	Jhae	adult	LW	m	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-015	failed	TRUE	Jhae	adult	LW	m	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-016	passed	TRUE	Jhae	adult	LW	m	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-017	passed	TRUE	Jhae	adult	LW	m	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-018	failed	FALSE	Jhae	adult	LW	f	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-019	passed	FALSE	Jhae	adult	LW	f	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-020	passed	FALSE	Jhae	adult	LW	f	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-021	passed	FALSE	Jhae	adult	LW	f	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-022	passed	FALSE	Jhae	adult	LW	f	2019	July	Delrey Beach FL	Delrey Beach	26.474247	-80.091139	GRT	85.6	75.8	1			
+																			
+FJnDRA190730-023	passed	FALSE	Jhae	adult	SW	f	2019	July	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	83.6	78	1.3			
+																			
+FJnDRA190730-024	passed	FALSE	Jhae	adult	SW	f	2019	July	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	83.6	78	1.3			
+																			
+FJnDRA190730-025	passed	FALSE	Jhae	adult	SW	f	2019	July	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	83.6	78	1.3			
+																			
+FJnDRA190730-026	passed	TRUE	Jhae	adult	LW	m	2019	July	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	83.6	78	1.3			
+																			
+FJnDRA190730-027	passed	TRUE	Jhae	adult	LW	m	2019	July	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	83.6	78	1.3			
+																			
+FJnDRA190730-028	passed	FALSE	Jhae	adult	LW	m	2019	July	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	83.6	78	1.3			
+																			
+FJnDRA190730-029	passed	FALSE	Jhae	adult	LW	m	2019	July	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	83.6	78	1.3			
+																			
+FJnDRA190730-030	passed	FALSE	Jhae	adult	LW	f	2019	July	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	83.6	78	1.3			
+																			
+FJnDRA190730-031	failed	FALSE	Jhae	adult	LW	f	2019	July	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	83.6	78	1.3			
+																			
+FJnDRA190730-032	passed	FALSE	Jhae	adult	LW	f	2019	July	Fort Lauderdale FL	Tamarac	26.188383	-80.172008	GRT	83.6	78	1.3			
+																			
+HHW230705-001	passed	TRUE	Jhae	adult	LW	m	2023	July	Islamorada FL	Windley Key	24.9501	-80.5957	BV				197.84	2.17	diluted to 131.7
+																			
+HHW230705-002	passed	TRUE	Jhae	adult	SW	m	2023	July	Islamorada FL	Windley Key	24.9501	-80.5957	BV				238.71	2.05	diluted to 169.5
+																			
+HHW230705-003	passed	TRUE	Jhae	adult	LW	m	2023	July	Islamorada FL	Windley Key	24.9501	-80.5957	BV				129.48	2.14	yes
+																			
+HHW230705-005	passed	TRUE	Jhae	adult	SW	m	2023	July	Islamorada FL	Windley Key	24.9501	-80.5957	BV				776.6	2.19	diluted to 171.5
+																			
+HHW230705-006	failed	TRUE	Jhae	adult	LW	m	2023	July	Islamorada FL	Windley Key	24.9501	-80.5957	BV				635.63	2.11	diluted to 169.5
+																			
+MEM190720-001	failed	FALSE	Btri	juvenile			2019	July	Waterville ME	North St Rec Trail	44.557811	-69.642934	Box Elder				132.52	2.15	yes
+																			
+MEM190720-002	failed	FALSE	Btri	juvenile			2019	July	Waterville ME	North St Rec Trail	44.557811	-69.642934	Box Elder				288.3	2.1	diluted to 156.7
+																			
+MEM190720-003	passed	FALSE	Btri	adult			2019	July	Waterville ME	North St Rec Trail	44.557811	-69.642934	Box Elder				142.51	2.2	yes
+																			
+MEM190720-004	failed	FALSE	Btri	adult			2019	July	Waterville ME	North St Rec Trail	44.557811	-69.642934	Box Elder				469.24	2.15	diluted to 177.2
+																			
+MEM190720-005	passed	FALSE	Btri	adult			2019	July	Waterville ME	North St Rec Trail	44.557811	-69.642934	Box Elder				391.51	2.17	diluted to 157.4
+																			
+MEM190720-006	failed	FALSE	Btri	adult			2019	July	Waterville ME	North St Rec Trail	44.557811	-69.642934	Box Elder				254.61	2.18	diluted to 139.0
